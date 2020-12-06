@@ -44,7 +44,7 @@ trigger_overlap_capacity = 16
 
 [bootstrap]
 main_collection = /main/main.collectionc
-render = /platformer_creation_kit/framework/renderer/platformer.renderc
+render = /platformer_creation_kit/framework/particles/renderer/platformer.renderc
 
 [graphics]
 default_texture_min_filter = linear
